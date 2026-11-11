@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.spendwise.app",
+      "sha256_cert_fingerprints": [
+        "B4:DB:6E:6A:52:63:77:46:56:6B:65:BB:A4:EA:FB:DF:7C:0D:2C:B2:D9:93:AB:6D:EC:B8:26:1C:68:A3:13:E3"
+      ]
+    }
+  }
+]
