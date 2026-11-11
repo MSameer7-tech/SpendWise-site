@@ -430,7 +430,7 @@ export function FAQClient() {
             </div>
 
             <a
-              href="mailto:support@spendwise.app?subject=SpendWise%20Support%20Inquiry"
+              href="mailto:mohammadsameerwork@gmail.com?subject=SpendWise%20Support%20Inquiry"
               className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-lg bg-[#064e3b] hover:bg-[#064e3b]/90 text-white dark:bg-[#10B981] dark:text-[#071A14] dark:hover:bg-[#34D399] px-5 py-2.5 text-sm font-semibold shadow-xs transition-colors shrink-0"
             >
               Contact Support

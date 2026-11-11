@@ -13,7 +13,7 @@ export function Footer() {
   const resourceLinks = [
     { label: 'FAQ & Help', href: '/faq' },
     { label: 'Security & Privacy', href: '/faq' },
-    { label: 'Support Contact', href: 'mailto:support@spendwise.app' },
+    { label: 'Support Contact', href: 'mailto:mohammadsameerwork@gmail.com' },
   ];
 
   const legalLinks = [

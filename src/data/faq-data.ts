@@ -906,7 +906,7 @@ export const ALL_FAQ_ITEMS: FAQItemData[] = [
     subcategory: 'Technical Support',
     question: 'How do I contact SpendWise support?',
     answer:
-      'You can reach our team anytime at support@spendwise.app or via the "Contact Support" button below. We typically respond to beta feedback within one business day.',
+      'You can reach our team anytime at mohammadsameerwork@gmail.com or via the "Contact Support" button below. We typically respond to beta feedback within one business day.',
     keywords: ['contact support', 'email support', 'help desk', 'customer care'],
     status: 'published',
   },
